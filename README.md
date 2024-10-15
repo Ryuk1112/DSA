@@ -1,2 +1,2 @@
 # DSA
-My DSA solutions using Python
+My Data Structure solutions using Python
